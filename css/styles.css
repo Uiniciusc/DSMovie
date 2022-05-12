@@ -71,14 +71,14 @@ a, a:hover{
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 220px;
+    height: 190px;
 
 
 }
 .dsmovie-card-description h3 {
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 23px;
+    margin-bottom: 15px;
     text-align: center;
     
 }
